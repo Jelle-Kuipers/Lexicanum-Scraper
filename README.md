@@ -5,7 +5,8 @@ The goal was to get an oversight of all the space marine chapters with an offica
 The data was found/taken from [The Community Created Warhammer 40,000 Encyclopedia: https://wh40k.lexicanum.com](https://wh40k.lexicanum.com/wiki/Main_Page)
 Massive props to the team and contributors for getting these images, as otherwise I couldn't do this.
 
-And yes, I could've written this myself to learn a new skill. But honestly? This was made at 1AM with a semi joke-purpose to see if I can paint all the official chapters.
+And yes, I could've written this myself to learn a new skill. But honestly? This was made at 1AM with a semi joke-purpose to see if I can paint all the official chapters.<br>
+This has gotten me a bit more interested in webscrapers and webscraping etiquette, so who knows for a future project?
 
 # Requirements
 Not sure, just used ```Python filename.py``` on my Fedora 42 + KDE Plasma 6.13 install.
